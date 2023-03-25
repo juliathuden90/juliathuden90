@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+I'm a previous Product Owner who decided I also wanted to code. So I joined a 9 weel Web Development bootcamp with LeWagon which I reacently finished. 
+Now I'm exited to start my new career as a Web Developer 👩‍💻
 
 <!--
 **juliathuden90/juliathuden90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
